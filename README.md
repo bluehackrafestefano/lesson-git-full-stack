@@ -1,4 +1,7 @@
 # lesson-git-full-stack
 
 Welcome to the company!!!
-I am sagittarius.
+
+Gul is sagittarius.
+
+Great to be here !
