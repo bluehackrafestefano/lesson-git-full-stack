@@ -2,6 +2,17 @@
 
 Welcome to the company!!!
 
+When you readme, do it carefully
+
+
+
+
+
+
+
+
+=======
+
 
 We need a lot of practice!
 
